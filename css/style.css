@@ -1,0 +1,105 @@
+body {
+  background-color: #e1e1e3;
+}
+.hero {
+  background-image: url("/img/background.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+  height: 100vh;
+}
+.logoColor {
+  filter: invert(1);
+}
+.editBack {
+  padding: 5%;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  background-color: #29282828;
+  border-radius: 2px;
+}
+.description {
+  margin-top: 15%;
+}
+.about {
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+.headings {
+  margin-left: 15%;
+}
+.onionImage {
+  margin-left: 5%;
+}
+.learnmore {
+  margin-top: 15%;
+}
+
+.foodImage {
+  position: relative;
+}
+
+.foodButton {
+  position: absolute;
+  left: 59%;
+  top: 27%;
+}
+.steak {
+  position: absolute;
+  left: 50%;
+  top: 73%;
+}
+.customerReview {
+  margin-left: 25%;
+  margin-top: 10%;
+}
+
+.onion {
+  filter: blur(2px);
+}
+
+.userName {
+  margin-left: 20%;
+}
+
+.woodFilter {
+  filter: grayscale(100%);
+}
+
+.flower {
+  position: relative;
+}
+.letusEdit {
+}
+.letus {
+  position: absolute;
+  left: 929px;
+  top: -175px;
+}
+.niceBowl {
+  position: absolute;
+  left: 815px;
+  top: 43px;
+}
+.letusrow {
+  max-width: 10%;
+}
+
+.howWorks {
+  margin-top: 16%;
+}
+
+.niceCakes {
+  margin-top: 3%;
+}
+
+.webFooter {
+  background-image: url("/img/blackWood.jpg");
+  background-size: cover;
+  margin-top: 10%;
+  padding: 10%;
+}
+
+.footText {
+  color: white;
+}
