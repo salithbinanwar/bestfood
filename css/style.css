@@ -2,7 +2,7 @@ body {
   background-color: #e1e1e3;
 }
 .hero {
-  background-image: url("/img/background.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-position-x: center;
   background-size: cover;
@@ -94,7 +94,7 @@ body {
 }
 
 .webFooter {
-  background-image: url("/img/blackWood.jpg");
+  background-image: url("../img/blackWood.jpg");
   background-size: cover;
   margin-top: 10%;
   padding: 10%;
