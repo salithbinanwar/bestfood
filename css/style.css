@@ -73,13 +73,15 @@ body {
 }
 .letus {
   position: absolute;
-  left: 929px;
-  top: -175px;
+
+  left: 1316px;
+  top: -185px;
 }
 .niceBowl {
   position: absolute;
-  left: 815px;
-  top: 43px;
+
+  left: 1205px;
+  top: 8px;
 }
 .letusrow {
   max-width: 10%;
@@ -102,4 +104,11 @@ body {
 
 .footText {
   color: white;
+}
+
+.money {
+  margin-left: 2%;
+}
+
+.moneyLearn {
 }
